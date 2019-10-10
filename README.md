@@ -45,4 +45,4 @@ sudo npm install -g git+https://github.com/royby12/homebridge-sonoff-blinds.git
 
 Physical connection:
 
-![alt text](https://raw.githubusercontent.com/royby12/omebridge-sonoff-blinds/master/Dual.png)
+![alt text](https://raw.githubusercontent.com/royby12/homebridge-sonoff-blinds/master/Dual.png)
