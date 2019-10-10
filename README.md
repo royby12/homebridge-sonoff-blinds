@@ -42,3 +42,7 @@ sudo npm install -g git+https://github.com/royby12/homebridge-sonoff-blinds.git
     "timeout": 5000                     //Default is 5000
 }
  ``` 
+
+Physical connection:
+
+![alt text](https://raw.githubusercontent.com/royby12/omebridge-sonoff-blinds/master/dual.png)
