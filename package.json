@@ -1,0 +1,24 @@
+
+{
+  "name": "homebridge-sonoff-blinds",
+  "version": "0.0.1",
+  "description": "Homebridge Plugin for Sonoff Blinds. Works in HTTP REST API.",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/royby12/homebridge-sonoff-blinds.git"
+  },
+  "bugs": {
+    "url": "https://github.com/royby12/homebridge-sonoff-blinds/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "request": "^2.67.0"
+  }
+}
